@@ -13,7 +13,7 @@ import EliasJoby from "@/public/images/Team/Elias_Joby.jpg"
 import IbinuJaleel from "@/public/images/Team/Ibinu_Jaleel.jpg"
 import JefinJoji from "@/public/images/Team/Jefin_Joji.jpg"
 import SharadChandra from "public/images/Team/Sharad_Chandra_M .jpg"
-import ShriramKiran from "@/public/images/Team/Shriram_Kiran.jpg"
+import ShriramKiran from "@/public/images/Team/Shriram_kiran.jpg"
 import Harshvardhan from "@/public/images/Team/Harsh.jpg"
 import AmilK from "public/images/Team/Amil_K.jpeg"
 
