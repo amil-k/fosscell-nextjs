@@ -19,6 +19,7 @@ import AmilK from "public/images/Team/Amil_K.jpeg"
 
 
 
+
 //B23s and B22s
 
 import Akhil from "@/public/images/Team/Akhil_T.jpg"
@@ -37,6 +38,7 @@ import Vinit_Keshri from "@/public/images/Team/Vinit_Keshri.jpg"
 import Vivek from "@/public/images/Team/Vivek.jpg"
 import Arjith_Lal from "@/public/images/Team/Arjith_Lal.jpg"
 import Rehan from "@/public/images/Team/Rehan.jpg"
+import Thiru from "public/images/Team/Thiru.jpg"
 
 
 // B21s
@@ -312,8 +314,14 @@ const member = [
     {
         id: 3,
         name: "Rehan",
-        position: "Goated Member",
+        position: "Member",
         image: Rehan
+    },
+    {
+        id: 4,
+        name: "	Thiruchalvan",
+        position: "Member",
+        image: Thiru
     },
 
 
@@ -367,7 +375,7 @@ const member = [
     {
         id: 10,
         name: "Vinit Keshri",
-        position: "Content Head",
+        position: "Member",
         image: Vinit_Keshri
     },
    
@@ -375,7 +383,7 @@ const member = [
     {
         id: 11,
         name: "Arun Natarajan",
-        position: "Design Head",
+        position: "Member",
         image: arun_natarajan
     },
  
